@@ -1,0 +1,28 @@
+/*Created by: Grace S
+*Created on: Mar 2022
+*This CSS file defines the style for more_js.html
+*ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: #ea75b4;
+}
+
+h1 {
+  background-color:#f288db;
+  color: #e51fb0;
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  border-style: solid;
+  background-color: #ee5de9;
+  color: #9c0788;
+  border-color: #d278d9;
+}
+
+p {
+  font-family:Monospace;
+  font-size: 15px;
+}
